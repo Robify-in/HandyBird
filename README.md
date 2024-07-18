@@ -1,4 +1,4 @@
-## Flappy Bird (Gesture Control) - README
+## Flappy Bird (Gesture Controlled) 
 
 ### Overview
 This project is a gesture-controlled version of the classic Flappy Bird game. It uses Pygame for the game mechanics and Mediapipe for hand gesture detection via the webcam. The bird in the game can be controlled by detecting specific hand gestures, allowing the player to make the bird jump.
@@ -68,7 +68,7 @@ This project is a gesture-controlled version of the classic Flappy Bird game. It
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the Robify (c) License.
 
 ### Acknowledgements
 
