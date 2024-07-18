@@ -66,10 +66,6 @@ This project is a gesture-controlled version of the classic Flappy Bird game. It
    ```
 5. **Create a new Pull Request.**
 
-### License
-
-This project is licensed under the Robify (c) License.
-
 ### Acknowledgements
 
 - Inspired by the classic Flappy Bird game.
